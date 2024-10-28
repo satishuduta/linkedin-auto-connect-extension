@@ -8,7 +8,7 @@ This Chrome extension automates sending LinkedIn connection requests from search
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/linkedin-auto-connect-extension.git
+    git clone https://github.com/satishuduta/linkedin-auto-connect-extension.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** in the top right corner.
